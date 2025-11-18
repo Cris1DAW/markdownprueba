@@ -30,3 +30,24 @@ services:
 | a | b | c | d |
 | --- | --- | --- | --- |
 | hola | hola2 | hola3 | hola4 |
+
+* 1
+* 2
+    * 3
+  * 4
+* 5
+* hola
+
+  - 1
+  - 2
+  - 3
+  - 4
+
+    <b>Hola</b>
+
+    Texto
+    > Cita
+
+    <!-- Comentario -->
+
+    [Enlace a meneame](https://meneame.net)
