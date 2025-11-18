@@ -10,3 +10,7 @@ _texto_
 ```
 git clone
 ```
+
+```html
+<del>Borrar</del>
+```
